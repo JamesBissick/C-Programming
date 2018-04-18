@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   version = "1.3">
+   <BuildAction>
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForRunning = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "CDF0EA45E2B773AC0A724400"
+               BuildableName = "20-pointers_as_function-arguments"
+               BlueprintName = "20-pointers_as_function-arguments"
+               ReferencedContainer = "container:20-pointers_as_function-arguments.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <LaunchAction
+      useCustomWorkingDirectory = "NO"
+      buildConfiguration = "Debug"
+      allowLocationSimulation = "YES">
+      <BuildableProductRunnable>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "CDF0EA45E2B773AC0A724400"
+            BuildableName = "20-pointers_as_function-arguments"
+            BlueprintName = "20-pointers_as_function-arguments"
+            ReferencedContainer = "container:20-pointers_as_function-arguments.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </LaunchAction>
+</Scheme>
