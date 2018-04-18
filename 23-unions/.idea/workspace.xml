@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a25f6e5d-9869-4024-980c-1d0fbc043b65" name="Default" comment="" />
+    <list default="true" id="55308095-3287-4fc3-a15e-bd0ef9f03308" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../22-structures/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../22-structures/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../18-pointers/.idea/18-pointers.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../18-pointers/.idea/18-pointers.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../18-pointers/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../18-pointers/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../18-pointers/18-pointers/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../18-pointers/18-pointers/main.c" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,20 +21,23 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="main.c" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/18-pointers/main.c">
+        <entry file="file://$PROJECT_DIR$/23-unions/main.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+            <state relative-caret-position="323">
+              <caret line="21" column="12" lean-forward="true" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/18-pointers/main.c" />
+        <option value="$PROJECT_DIR$/23-unions/main.c" />
       </list>
     </option>
   </component>
@@ -44,6 +55,9 @@
     <option name="width" value="1280" />
     <option name="height" value="724" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -55,12 +69,12 @@
           <expand>
             <path>
               <item name="" type="efc3779f:XcodeRootNode" />
-              <item name="18-pointers" type="1d218c8b:XcodeProjectNode" />
+              <item name="23-unions" type="1d218c8b:XcodeProjectNode" />
             </path>
             <path>
               <item name="" type="efc3779f:XcodeRootNode" />
-              <item name="18-pointers" type="1d218c8b:XcodeProjectNode" />
-              <item name="18-pointers" type="fcab9f18:XcodeViewNode" />
+              <item name="23-unions" type="1d218c8b:XcodeProjectNode" />
+              <item name="23-unions" type="fcab9f18:XcodeViewNode" />
             </path>
           </expand>
           <select />
@@ -87,7 +101,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="18-pointers" type="AppleRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="18-pointers" TARGET_NAME="18-pointers" CONFIG_NAME="Debug" SCHEME_NAME="18-pointers" IS_LOCATION_SIMULATION_ALLOWED="true" RUN_TARGET_PROJECT_NAME="18-pointers" RUN_TARGET_NAME="18-pointers" MAKE_ACTIVE="TRUE">
+    <configuration name="23-unions" type="AppleRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="23-unions" TARGET_NAME="23-unions" CONFIG_NAME="Debug" SCHEME_NAME="23-unions" IS_LOCATION_SIMULATION_ALLOWED="true" RUN_TARGET_PROJECT_NAME="23-unions" RUN_TARGET_NAME="23-unions" MAKE_ACTIVE="TRUE">
       <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
         <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
       </EXTENSION>
@@ -98,30 +112,30 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a25f6e5d-9869-4024-980c-1d0fbc043b65" name="Default" comment="" />
-      <created>1523995743828</created>
+      <changelist id="55308095-3287-4fc3-a15e-bd0ef9f03308" name="Default" comment="" />
+      <created>1524047582911</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1523995743828</updated>
-      <workItem from="1523995771726" duration="1067000" />
+      <updated>1524047582911</updated>
+      <workItem from="1524047584433" duration="1259000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1067000" />
+    <option name="totallyTimeSpent" value="1259000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="724" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.221875" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Messages" weight="0.32935917" />
       <window_info anchor="right" id="Palette&#9;" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32935917" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
@@ -142,10 +156,10 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/18-pointers/main.c">
+    <entry file="file://$PROJECT_DIR$/23-unions/main.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        <state relative-caret-position="323">
+          <caret line="21" column="12" lean-forward="true" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
         </state>
       </provider>
     </entry>
