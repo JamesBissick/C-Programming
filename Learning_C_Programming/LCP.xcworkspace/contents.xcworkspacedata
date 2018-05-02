@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:15.if_else/15.if_else.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:14.short_circuit_AND_OR_operators/14.short_circuit_AND_OR_operators.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:13.incrementation_decrementation/13.incrementation_decrementation.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:12.logical_operators/12.logical_operators.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:11.bool_challenge/11.bool_challenge.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:10.relational_operators/10.relational_operators.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:09.assignement_operator/09.assignement_operator.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:08.scanf/08.scanf.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:07.printf/07.printf.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:06.casting_double/06.casting_double.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:05.flushing_problems_with_char_input/05.flushing_problems_with_char_input.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:04b.characters/04b.characters.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/jamesharrys/Programming/C/Learning_C_Programming/4.characters/04a.characters.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:03.operators/03.operators.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:02.Variables_Hex_and_Octa/02.Variables_Hex_and_Octa.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/jamesharrys/Programming/C/Learning_C_Programming/01_input_store_values/01.input_store_values.xcodeproj">
+   </FileRef>
+</Workspace>
