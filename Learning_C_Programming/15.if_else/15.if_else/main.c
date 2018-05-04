@@ -7,8 +7,18 @@
 
 #include <stdio.h>
 
-int main(int argc, const char * argv[]) {
-    // insert code here...
-    printf("Hello, World!\n");
-    return 0;
+int main() {
+    int a, b, max;
+    printf("Enter first number.\n");
+    scanf("%d", &a);
+    printf("Enter second number.\n");
+    scanf("%d", &b);
+    
+    if (a > b) {
+        max = a;
+    } else {
+        max = b;
+    }
+    printf("Max is %d.\n", max);
+    
 }

@@ -2,6 +2,48 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:27.generate_rand_numbers/27.generate_rand_numbers.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:26b.continue/26b.continue.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/jamesharrys/Programming/C/Learning_C_Programming/26.break_and_continue/26a.break.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:25.do_while/25.do_while.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:24.for_loops/24.for_loops.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:23.while_loop_ex2/23.while_loop_ex2.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:22.while_loop_ex1/22.while_loop_ex1.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:21.while_loop/21.while_loop.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:20b.switch_case_exercice_2/20b.switch_case_exercice_2.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/jamesharrys/Programming/C/Learning_C_Programming/20.switch_case/20a.switch_case.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:19.nested_if_else_exercice/19.nested_if_else_exercice.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:18.ternary_operators/18.ternary_operators.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:17.tax_income_exercice/17.tax_income_exercice.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:16.if_else_structure/16.if_else_structure.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:15.if_else/15.if_else.xcodeproj">
    </FileRef>
    <FileRef
