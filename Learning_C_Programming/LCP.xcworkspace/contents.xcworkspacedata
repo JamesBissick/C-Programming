@@ -2,6 +2,21 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:32.two_dimentional_example_1/32.two_dimentional_example_1.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:31.two_dimensional_array/31.two_dimensional_array.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:30.1d_array_example/30.1d_array_example.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:29.allocating_array_dynamically/29.allocating_array_dynamically.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:28.arrays/28.arrays.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:27.generate_rand_numbers/27.generate_rand_numbers.xcodeproj">
    </FileRef>
    <FileRef
