@@ -2,6 +2,48 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:46.when_recursion_is_preferable/46.when_recursion_is_preferable.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:45.when_iteration_is_preferable/45.when_iteration_is_preferable.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:44.recursion_vs_iteration/44.recursion_vs_iteration.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:43.recursive_intro/43.recursive_intro.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:42.testing_out_armstrong_number/42.testing_out_armstrong_number.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:41.uppercase_lowercase_functions/41.uppercase_lowercase_functions.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:40.prime_number/40.prime_number.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:39.prototyping_functions/39.prototyping_functions.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:38.functions/38.functions.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:37.library_functions_for_string_operations/37.library_functions_for_string_operations.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:36.search_and_count_target_in_string/36.search_and_count_target_in_string.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:35.finding_length_of_a_string/35.finding_length_of_a_string.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:34.input_string_from_keyboard/34.input_string_from_keyboard.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:33.storing_string_in_array/33.storing_string_in_array.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:32.two_dimentional_example_1/32.two_dimentional_example_1.xcodeproj">
    </FileRef>
    <FileRef
