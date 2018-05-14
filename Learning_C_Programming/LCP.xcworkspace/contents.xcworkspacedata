@@ -2,6 +2,12 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:48.fibonacci_sequence/48.fibonacci_sequence.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:47.tower_of_hanoi/47.tower_of_hanoi.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:46.when_recursion_is_preferable/46.when_recursion_is_preferable.xcodeproj">
    </FileRef>
    <FileRef

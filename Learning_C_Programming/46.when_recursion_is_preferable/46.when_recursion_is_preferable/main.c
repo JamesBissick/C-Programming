@@ -8,8 +8,17 @@
 
 #include <stdio.h>
 
-int main(int argc, const char * argv[]) {
-    // insert code here...
-    printf("Hello, World!\n");
-    return 0;
+// benefits of recursion, when exactly we need it
+void decimalsToBin(unsigned int n) {
+    if (n == 1) {
+        printf("1");
+        return;
+    }
+    decimalsToBin(n/2);
+    printf("%d", n%2);
+}
+
+int main() {
+    decimalsToBin(10);
+    printf("\n");
 }
