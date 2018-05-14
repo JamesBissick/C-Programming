@@ -2,6 +2,18 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:52.storage_class_register/52.storage_class_register.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:51.storage_class_extern/51.storage_class_extern.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:50.storage_static_class/50.storage_static_class.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:49.auto_storage_class/49.auto_storage_class.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:48.fibonacci_sequence/48.fibonacci_sequence.xcodeproj">
    </FileRef>
    <FileRef
