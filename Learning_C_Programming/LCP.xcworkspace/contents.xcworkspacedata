@@ -2,6 +2,39 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:63.constant_pointers/63.constant_pointers.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:62.passing_1d_array_to_function_example_2/62.passing_1d_array_to_function_example_2.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:61.passing_1d_array_to_function/61.passing_1d_array_to_function.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:60.1d_arrays_and_pointers/60.1d_arrays_and_pointers.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:59.more_programming_examples/59.more_programming_examples.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:58.when_to_use_pointers/58.when_to_use_pointers.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:57.more_on_pointers/57.more_on_pointers.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:56.arithmetic_address/56.arithmetic_address.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:55.pointers_3/55.pointers_3.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:54.pointers_2/54.pointers_2.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:53.pointers_intro/53.pointers_intro.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:52.storage_class_register/52.storage_class_register.xcodeproj">
    </FileRef>
    <FileRef
