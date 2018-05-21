@@ -2,6 +2,27 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:70.simulation_of_dynamic_2D_array/70.simulation_of_dynamic_2D_array.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:69.array_of_pointers/69.array_of_pointers.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:68.constant_property_of_strings/68.constant_property_of_strings.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:67.realloc_function/67.realloc_function.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:66.calloc_function/66.calloc_function.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:65.malloc_function/65.malloc_function.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:64.void_pointers/64.void_pointers.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:63.constant_pointers/63.constant_pointers.xcodeproj">
    </FileRef>
    <FileRef
