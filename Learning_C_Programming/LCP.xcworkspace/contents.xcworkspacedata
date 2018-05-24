@@ -2,6 +2,45 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:83.reading_line_from_text_file_using_arrays_and_fgets/83.reading_line_from_text_file_using_arrays_and_fgets.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:82.reading_content_of_file/82.reading_content_of_file.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:81.file_handling_writing_characters_to_a_text_file/81.file_handling_writing_characters_to_a_text_file.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:80.passing_variable_arg_of_different_types/80.passing_variable_arg_of_different_types.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:79.pass_variable_arguments_to_functions/79.pass_variable_arguments_to_functions.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:78.union_type/78.union_type.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:77.enums_constant/77.enums_constant.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:76.struct_type_within_another_struct_type/76.struct_type_within_another_struct_type.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:75.writing_struct_behaviour_part.2/75.writing_struct_behaviour_part.2.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:74.writing_struct_behaviour/74.writing_struct_behaviour.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:73.pointer_to_struct_object/73.pointer_to_struct_object.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:72.typedef_keyword/72.typedef_keyword.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:71.user_defined_type_struct/71.user_defined_type_struct.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:70.simulation_of_dynamic_2D_array/70.simulation_of_dynamic_2D_array.xcodeproj">
    </FileRef>
    <FileRef
