@@ -2,6 +2,66 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:103.clock_function/103.clock_function.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:102.memcpy_copy_from_memory_block/102.memcpy_copy_from_memory_block.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:101.memset_initialise_memory_blocks/101.memset_initialise_memory_blocks.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:100.strtok_extracting_infos/100.strtok_extracting_infos.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:99.sscanf_scanning_formated_data/99.sscanf_scanning_formated_data.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:98.sprintf_and_snprintf/98.sprintf_and_snprintf.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:97.bitwise_OR_operator/97.bitwise_OR_operator.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:96.print_signed_integer/96.print_signed_integer.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:95.count_set_bits/95.count_set_bits.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:94.bitwise_XOR_operation/94.bitwise_XOR_operation.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:93.bitwise_AND_operator/93.bitwise_AND_operator.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:92.bitwise_right_shift_operator/92.bitwise_right_shift_operator.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:91.bitwise_leftshift_operator/91.bitwise_leftshift_operator.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:90.calculating_the_number_of_records_in_binary_file_using_ftell/90.calculating_the_number_of_records_in_binary_file_using_ftell.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:89.moving_file_pointer_at_any_location_using_fseek/89.moving_file_pointer_at_any_location_using_fseek.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:88.reading_in_binary/88.reading_in_binary.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:87.writing_in_binary/87.writing_in_binary.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:86.formated_data_reading_writing/86.formated_data_reading_writing.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:85.writing_formated_data_into_text_file_using_fprintf/85.writing_formated_data_into_text_file_using_fprintf.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:84.reading_formated_data_from_text_file_using_fscanf/84.reading_formated_data_from_text_file_using_fscanf.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:83.reading_line_from_text_file_using_arrays_and_fgets/83.reading_line_from_text_file_using_arrays_and_fgets.xcodeproj">
    </FileRef>
    <FileRef

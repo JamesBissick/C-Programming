@@ -1,0 +1,7 @@
+Mark Zuckerberg,5000
+Steve Jobs,4000
+Gloria Fisher,3000
+Steven Spielberg,5000
+Albert Einstein,3000
+Nicolas Tesla,3500
+Larry Page,8000
