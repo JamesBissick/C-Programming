@@ -2,6 +2,24 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:109.function_pointers_explained/109.function_pointers_explained.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:108.declaring_function_pointers/108.declaring_function_pointers.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:107.function_pointer/107.function_pointer.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:106.qsort_function/106.qsort_function.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:105.improving_bubble_sort_efficiency/105.improving_bubble_sort_efficiency.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:104.bubble_sort_algorithm/104.bubble_sort_algorithm.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:103.clock_function/103.clock_function.xcodeproj">
    </FileRef>
    <FileRef
